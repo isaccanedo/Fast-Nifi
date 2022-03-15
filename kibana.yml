@@ -1,0 +1,8 @@
+server.name: kibana
+server.port: 5601
+server.host: "kibana"
+elasticsearch.hosts: ["https://elasticsearch:9200"]
+elasticsearch.ssl.certificateAuthorities: /usr/share/kibana/config/certs/ca.crt
+
+
+
